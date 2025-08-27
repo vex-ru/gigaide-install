@@ -9,7 +9,9 @@
 
 > ⚡️ **Установите GigaIDE за 1 клик в терминале (консоли) Linux:**  
 
-> `curl -L https://vex-ru.github.io/gigaide-install/install.sh | bash`
+```bash
+curl -L https://vex-ru.github.io/gigaide-install/install.sh | bash
+```
 
 ![alt text](image.png)
 
